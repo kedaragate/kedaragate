@@ -25,3 +25,6 @@ main {
   outline: none;
   text-decoration-line: none;
 }
+h2 {
+  color: rgba(52, 129, 129, 0.829);
+}
